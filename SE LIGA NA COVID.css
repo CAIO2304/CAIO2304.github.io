@@ -1,12 +1,18 @@
 body {
-  background-color: rgb(207, 226, 236);
+  background-image:url(https://static.vecteezy.com/ti/vetor-gratis/p1/1056855-covid-19-celulas-e-vermelho-sangue-celulas-em-vermelho-fundo-gr%C3%A1tis-vetor.jpg);
 }
 h1 {
-  color:rgb(255, 0, 0);
-}
-p {
-  color: rgb(255, 0, 0);
+  color: azure;
 }
 h3 {
-    color:(cadetblue)
+  color: azure;
+}
+p {
+  color: azure;
+}
+td {
+  color: azure;
+}
+a {
+  color: aqua;
 }
