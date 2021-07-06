@@ -2,17 +2,34 @@ body {
   background-image:url(https://static.vecteezy.com/ti/vetor-gratis/p1/1056855-covid-19-celulas-e-vermelho-sangue-celulas-em-vermelho-fundo-gr%C3%A1tis-vetor.jpg);
 }
 h1 {
-  color: azure;
+  color: rgb(243, 0, 0);
 }
+
+h2{
+  color: rgb(47, 0, 255);
+}
+
 h3 {
-  color: azure;
+  color: rgb(255, 255, 255);
 }
-p {
-  color: azure;
+h4 {
+  color: rgb(35, 153, 31);
+  size: 20cm;
 }
 td {
-  color: azure;
+  color: rgb(0, 0, 0);
 }
 a {
-  color: aqua;
+  color: rgb(0, 255, 200);
 }
+.container-fluid {
+  background-color: black;
+  size: 200cm;
+}
+
+ .container {
+   background-color: rgb(255, 255, 255);
+ }
+ .container-fluid {
+   background-color: rgb(255, 251, 0);
+ }
